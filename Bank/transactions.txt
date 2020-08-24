@@ -1,0 +1,4 @@
+Bob withdrew 20.0
+k457 deposited 1200.0 into Bob's account.
+k457 transferred 600.0 from Bob to Nick
+k457 withdrew 300.0 from Nick
